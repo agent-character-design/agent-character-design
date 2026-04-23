@@ -3,8 +3,8 @@ description: A discipline for designing AI agent personalities, behavior arcs, a
 author: Zico Zhou
 theme: jekyll-theme-cayman
 
-baseurl: "/agent-character-design"
-url: "https://agent-character-design.github.io"
+baseurl: ""
+url: "https://agentcharacterdesign.com"
 
 markdown: kramdown
 kramdown:
