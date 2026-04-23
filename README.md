@@ -29,7 +29,7 @@ This repo hosts the living spec — a practical guide to designing AI agents who
 | Ch. 5 — Case Study: Colive | 📋 Planned | — |
 | Ch. 6 — Measurement & Drift Detection | 📋 Planned | — |
 
-Hosted docs site: https://agent-character-design.github.io/agent-character-design/ (coming soon)
+Hosted docs site: **[agentcharacterdesign.com](https://agentcharacterdesign.com)**
 
 ## Tools
 
@@ -84,7 +84,7 @@ Code samples: MIT.
 
 Built by [Zico Zhou](https://github.com/ZicoZhou10). Background: psychology, game design, and operating autonomous multi-agent systems in production.
 
-Contact: zhouzico@gmail.com · Twitter: [@AgentCharacter](https://twitter.com/AgentCharacter) (coming soon) · Site: [agentcharacterdesign.com](https://agentcharacterdesign.com) (coming soon)
+Contact: [zico@agentcharacterdesign.com](mailto:zico@agentcharacterdesign.com) · Twitter: [@AgentCharacter](https://twitter.com/AgentCharacter) (coming soon) · Site: [agentcharacterdesign.com](https://agentcharacterdesign.com)
 
 ---
 

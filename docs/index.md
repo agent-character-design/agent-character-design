@@ -18,8 +18,8 @@ Most AI persona work stops at Level 1. This Field Guide is about Level 2.
 
 ## Read the Field Guide
 
-- [Chapter 1 — What Is Agent Character Design?](chapter-01-what-is-acd.html) (15 min)
-- [Chapter 2 — Persona Architecture](chapter-02-persona-architecture.html) (20 min)
+- [Chapter 1 — What Is Agent Character Design?](chapter-01-what-is-acd) (15 min)
+- [Chapter 2 — Persona Architecture](chapter-02-persona-architecture) (20 min)
 - Chapter 3 — Behavior Arcs *(in progress)*
 - Chapter 4 — Interaction Rhythms *(planned)*
 - Chapter 5 — Case Study: Colive *(planned)*
