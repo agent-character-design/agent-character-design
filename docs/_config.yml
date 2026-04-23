@@ -1,0 +1,19 @@
+title: Agent Character Design
+description: A discipline for designing AI agent personalities, behavior arcs, and interaction rhythms that stay coherent over time.
+author: Zico Zhou
+theme: jekyll-theme-cayman
+
+baseurl: "/agent-character-design"
+url: "https://agent-character-design.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+nav:
+  - title: Home
+    url: /
+  - title: Chapter 1 - What is ACD?
+    url: /chapter-01-what-is-acd
+  - title: Chapter 2 - Persona Architecture
+    url: /chapter-02-persona-architecture
